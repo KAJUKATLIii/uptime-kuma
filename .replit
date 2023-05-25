@@ -1,0 +1,2 @@
+run="npm run setup && node server/server.js port=80"
+language
